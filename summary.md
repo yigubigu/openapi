@@ -32,6 +32,7 @@
     * [2.9.3	删除照片](./material/2.9.md/#2-9-3)
     * [2.9.4	图片种类](./material/2.9.md/#2-9-4)
   * [2.10	运单回单照片上传](./material/2.10.md)  
+  * [2.11 删除运单](./material/2.11.md)    
 * [3 企业自有Android APP的集成](./material/3.md)
   * [3.1 下载SDK](./material/3.1.md)
   * [3.2	在AndroidManifest.xml文件中申请下面的权限](./material/3.2.md)
