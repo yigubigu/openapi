@@ -68,7 +68,5 @@
     * [3.10.4	图片对象](./material/3.10.md/#3-10-4)
     * [3.10.5	发票列表](./material/3.10.md/#3-10-5)
     * [3.10.6	发票对象](./material/3.10.md/#3-10-6)
-* [4 logink集成](./material/4.md)    
-  * [4.1 logink集成简介](./material/4.1.md)
-  * [4.2 报文参考样式](./material/4.2.md)
+
 
